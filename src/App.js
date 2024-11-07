@@ -8,6 +8,7 @@ function App() {
   function countDecrement() {
     setCount(count - 1);
   }
+
   function countIncrement() {
     setCount(count + 1);
   }
